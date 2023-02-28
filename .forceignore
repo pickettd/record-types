@@ -1,2 +1,5 @@
 force-app/main/default/lwc/valenceUIConfigurator/LICENSE
 force-app/main/default/lwc/valenceUIConfigurator/README.md
+**/jsconfig.json
+
+**/.eslintrc.json
